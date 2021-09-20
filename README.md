@@ -26,6 +26,8 @@ ntelliJ IDEA is an integrated development environment (IDE) written in Java for 
 
 ## How to do performance testing?
 
+![alt text](https://github.com/ioanan11/Deloitte_SRE_Performance_Testing/blob/main/images/Screenshot%202021-09-20%20170352.png)
+
 First of all, we need to make sure everything is installed properly
 
 - **Java** (version 8 and up) can be downloaded from here: https://www.oracle.com/java/technologies/downloads/#jdk17-windows
@@ -37,3 +39,5 @@ Then open Intellij, and download **Scala** plugin (ctrl+alt+s and install plugin
 Open **File** -> **New Project** and select the folder where you have downloaded Gatling (C:\Users\ioana11\gatling-charts-highcharts-bundle-3.6.1).
 
 While in the **bin** folder run `./gatling.bat` and select the number corresponding to the test you want to run. 
+
+![alt text](https://github.com/ioanan11/Deloitte_SRE_Performance_Testing/blob/main/images/Screenshot%202021-09-20%20170111.png)
