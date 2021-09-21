@@ -28,7 +28,7 @@ ntelliJ IDEA is an integrated development environment (IDE) written in Java for 
 
 ### Gatling File Structure
 
-![alt text]()
+![alt text](https://github.com/ioanan11/Deloitte_SRE_Performance_Testing/blob/main/images/Screenshot%202021-09-21%20151609.png)
 
 
 ### A. Basic Simulation
@@ -51,7 +51,7 @@ While in the **bin** folder run `./gatling.bat` and select the number correspond
 
 The test is then run and will return a file path that can be copy pasted into the browser.
 
-![alt text]()
+![alt text](https://github.com/ioanan11/Deloitte_SRE_Performance_Testing/blob/main/images/Screenshot%202021-09-21%20093236.png)
 
 These results can be found in **results** directory. Copy paste the path found in **index.html** into the browser and we get the same thing.
 
@@ -77,7 +77,7 @@ A window will pop up. You need to write the following:
 - select a simulations folder where the simulation will be saved
 - press **Start**
 
-![alt text]()
+![alt text](https://github.com/ioanan11/Deloitte_SRE_Performance_Testing/blob/main/images/Screenshot%202021-09-21%20145157.png)
 
 The simulation will now be available when we run `gatling.bat`.
 
